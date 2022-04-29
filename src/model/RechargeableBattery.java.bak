@@ -10,7 +10,7 @@ public class RechargeableBattery extends Battery implements Rechargeable{
 	public RechargeableBattery( String name, double voltage, double cost, double capacity, int chargernumber, Type typeBattery){
 		
 		
-		super(name,voltage,cost,capacity);
+		super(name,voltage,cost,capacity,chargernumber);
 		
 		chargerNumber=chargernumber;
 		this.typeBattery=typeBattery;

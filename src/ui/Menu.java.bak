@@ -131,7 +131,7 @@ public class Menu {
 
 public void showBatteries(){
 	
-	 System.out.println(company.showTotalBatteries());
+	company.showTotalBatteries();
 	
 }
 

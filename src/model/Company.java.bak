@@ -58,7 +58,7 @@ public class Company{
 				}
 			}
 		}
-    	return " el numero de baterias tradicionales que hay registradas es de "+ battery+ " y de baterias recargables "+ rechargeable;
+    	return " el numero de baterias tradicionales que hay registradas es de "+ batteries+ " y de baterias recargables "+ rechargeable;
     
 	}
     
